@@ -9,5 +9,5 @@ Une fonction très utile pour récuperer facilement les paramètres d'un fichier
 ## Usage
 
 ```
-$> Main de test appelant la fonction get_next_line
+Main de test appelant la fonction get_next_line
 ```
